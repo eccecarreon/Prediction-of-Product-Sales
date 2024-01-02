@@ -10,4 +10,4 @@ I have included the following visuals to guide the next steps of this project:
 The regplot above shows the positive relationship of the items' maximum retail price and outlet sales. As the maximum retail price goes up, the outlet sales increase as well. It would be interesting to check and confirm for this data if higher prices and high sales volume will help sales prediction. 
 
 ![project_scatterplot_hued](https://github.com/eccecarreon/Prediction-of-Product-Sales/assets/153371886/817f6afe-78a7-43c8-b4ed-889a3f8993f8)
-This scatterplot which is a modification of the graph above gives us an indication that the data shows how the location type of an outlet or tier type might support the moderate correlation between item MRP and outlet sales.
+This scatterplot, with additional information for the graph above, gives us an indication that the data might help us explain the positive, moderate correlation of item MRP and outlet sales by also looking at the location type of an outlet or tier type in predicting sales for food items at various stores.
