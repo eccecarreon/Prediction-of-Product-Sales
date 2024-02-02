@@ -69,18 +69,19 @@ With food is the basic necessity, it is not suprising highest number of sales in
   - MSE = 1,194,197.603
     
 * Random Forest Regressor Model (Testing Set)
-  - R^2 = 0.554
-  - RMSE = 1,108.875
-  - MAE = 768.790
-  - MSE = 1,229,602.982
+  - R^2 = 0.555
+  - RMSE = 1,108.120
+  - MAE = 770.716
+  - MSE = 1,227,929.363
 
 * Tuned Random Forest Regressor Model (Testing Set)
-  - R^2 = 0.589
-  - RMSE = 1,065.431
-  - MAE = 740.786
-  - MSE = 1,135,143.132
+  - R^2 = 0.590
+  - RMSE = 1,063.139
+  - MAE = 746.682
+  - MSE = 1,130,264.385
 
-* The final model that was chosen is Tuned Random Forest Regressor Model, with max_depth of 10 and n_estimators of 100.
+* The final model that was chosen is Tuned Random Forest Regressor Model, with max_depth of 10, n_estimators of 100 and max_samples is 150.
+* 
 
   
 
