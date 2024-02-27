@@ -38,7 +38,7 @@ In terms of sales instances:
 
 ![project-count-plot](https://github.com/eccecarreon/Prediction-of-Product-Sales/assets/153371886/e372413a-886b-4ba1-95d8-b1d112e96855)
 
-With food is the basic necessity, it is not suprising alrgest number of sales instance are food items as Fruits and Vegetables followed by Snack Foods and Household item with the highest maximum item price.
+With food as the basic necessity, it is not suprising that the largest number of sales instance are food items like Fruits and Vegetables followed by Snack Foods and Household items. These items also have the highest maximum price.
 
 * Fruits and Vegetables    1232
 * Snack Foods              1200
