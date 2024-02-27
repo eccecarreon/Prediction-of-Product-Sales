@@ -102,7 +102,6 @@ Outlet Sales
 
 Model Performance
   - Overall, the best model is the Tuned Random Forest Regressor. It outperformed the Linear Regression Model and the Random Forest Regressor.
-  -
 
 **Next Steps**
 There are opportunities to further improve the model. Other features can explored by asking more questions such as "Why do Tier 3 locations have more sales? What kind of buyers purchase in Tier 3 locations?", or boosting the model (eg. using XGBoost).
